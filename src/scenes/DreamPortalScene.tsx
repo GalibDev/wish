@@ -32,7 +32,7 @@ export function DreamPortalScene({ onNext }: { onNext: () => void }) {
           fetchPriority="high"
           className="decoded-portal-art"
           data-ready={status === "ready"}
-          alt="A male traveler gazes into a glowing lavender portal, with a moonlit castle floating beyond"
+          alt="A girl sits before a glowing moonlit portal overlooking a castle, surrounded by purple blossoms and floating lanterns"
         />
         <div className="portal-ring" />
       </motion.div>

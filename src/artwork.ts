@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 export const artwork = {
   invitation: "/images/invitation-hd.webp",
-  portal: "/images/portal-hd.webp",
+  portal: "/images/moonlit-portal-to-the-castle.webp",
 };
 const requests = new Map<string, Promise<boolean>>();
 // One fetch/decode promise per URL, reused by prewarming and scene mounts.
