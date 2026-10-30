@@ -100,14 +100,14 @@ function Finale({ onReplay }: { onReplay: () => void }) {
       <div className="finale-art-frame">
         <img
           className="celebration-landscape"
-          src="/art/birthday-celebration-hd.webp"
+          src="/art/dreamy-birthday-night-for-tasnim.webp"
           width={941}
           height={1672}
           decoding="async"
-          alt="A friend opens his arms to a magical city beneath floating golden lanterns"
+          alt="Happy Birthday, Tasnim! 31 October. A girl and a white cat look toward a glowing castle beneath a starry sky and floating lanterns"
         />
         <motion.header
-          className="finale-heading"
+          className="sr-only"
           animate={{
             opacity: stage >= 3 ? 1 : 0,
             y: stage >= 3 ? 0 : reduced ? 0 : 12,

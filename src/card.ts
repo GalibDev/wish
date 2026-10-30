@@ -29,13 +29,13 @@ export async function saveBirthdayCard() {
     const img = new Image();
     img.onload = () => resolve(img);
     img.onerror = () => resolve(null);
-    img.src = "/art/birthday-celebration-hd.webp";
+    img.src = "/art/dreamy-birthday-night-for-tasnim.webp";
   });
   if (image) {
     const height = 640;
     ctx.save();
     ctx.globalAlpha = 0.75;
-    // Preserve proportions while selecting the lower city and traveler for this strip.
+    // Preserve proportions while selecting the lower castle and birthday scene for this strip.
     const sourceHeight = (image.naturalWidth * height) / 1200;
     ctx.drawImage(
       image,
