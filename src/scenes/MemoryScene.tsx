@@ -206,7 +206,7 @@ export function MemoryScene({
           <h2>To more beautiful memories.</h2>
           <p className="wish-message">
             The best part of every memory is having someone to share it with.
-            Here is to all the wonderful moments still ahead, Tasnim.
+            Here is to more family memories, little sister. Your big brother is always cheering for you.
           </p>
           <MagicalButton onClick={onNext}>Follow the Moonlight</MagicalButton>
         </MagicDialog>
