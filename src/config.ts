@@ -141,9 +141,9 @@ export const memories: Memory[] = [
   },
 ];
 export const puzzlePhoto = {
-  image: "/images/tasnim/tasnim-bouquet.webp",
+  image: "/images/tasnim/tasnim-tiara-puzzle.webp",
   position: "50% 50%",
-  alt: "Tasnim holding a bouquet of red and white roses",
+  alt: "Tasnim wearing a tiara over her hijab and holding red and white roses",
 };
 export const quiz = [
   {
