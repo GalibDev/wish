@@ -115,6 +115,13 @@ export const memories: Memory[] = [
     caption: "Keep shining, little sister.",
     description: "Dream big, Tasnim. Your big brother will always be cheering you on.",
   },
+  {
+    id: "tasnim-starry-birthday",
+    image: "/images/tasnim/tasnim-starry-birthday.webp",
+    imageFit: "contain",
+    caption: "A sky full of wishes for you, little sister.",
+    description: "Happy birthday, Tasnim. Keep dreaming and growing into your own wonderful person. Your big brother is always on your side.",
+  },
 ];
 export const puzzlePhoto = {
   image: "/images/tasnim/tasnim-birthday-portrait.webp",
