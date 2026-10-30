@@ -103,6 +103,8 @@ export type Memory = {
 export const memories: Memory[] = [
   {
     id: "ordinary-days",
+    image: "/images/tasnim/tasnim-bouquet.webp",
+    imageFit: "contain",
     caption: "The little moments that make us siblings.",
     description: "Even an ordinary day feels warmer with my little sister around.",
   },
@@ -139,9 +141,9 @@ export const memories: Memory[] = [
   },
 ];
 export const puzzlePhoto = {
-  image: "/art/moonlit-portal-floating-kingdom.png",
+  image: "/images/tasnim/tasnim-bouquet.webp",
   position: "50% 50%",
-  alt: "A moonlit portal to a floating kingdom",
+  alt: "Tasnim holding a bouquet of red and white roses",
 };
 export const quiz = [
   {
