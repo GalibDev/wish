@@ -102,48 +102,17 @@ export type Memory = {
 // Personal photos can be added when available.
 export const memories: Memory[] = [
   {
-    id: "ordinary-days",
-    image: "/images/tasnim/tasnim-bouquet.webp",
+    id: "tasnim-birthday-portrait",
+    image: "/images/tasnim/tasnim-birthday-portrait.webp",
     imageFit: "contain",
-    caption: "The little moments that make us siblings.",
-    description: "Even an ordinary day feels warmer with my little sister around.",
-  },
-  {
-    id: "shared-laughter",
-    caption: "A little teasing, a lot of love.",
-    description: "Being your big brother means getting to annoy you and care about you at the same time.",
-  },
-  {
-    id: "next-adventure",
-    caption: "Family moments worth keeping.",
-    description:
-      "Here is to making more happy memories as brother and sister.",
-  },
-  {
-    id: "little-possibilities",
-    caption: "Watching you find your own way.",
-    description: "I cannot wait to see the things you choose to learn, try, and become.",
-  },
-  {
-    id: "friendship-moments",
-    caption: "A little sister, a lifelong place in my heart.",
-    description: "You will always be my little sister, no matter how grown up you get.",
-  },
-  {
-    id: "better-together",
-    caption: "More birthdays and family stories ahead.",
-    description: "I hope we keep finding time to laugh together through every new chapter.",
-  },
-  {
-    id: "keep-shining",
-    caption: "Always your big brother, always on your side.",
-    description: "Go make your own wonderful memories, Tasnim. I will always be happy to hear about them.",
+    caption: "Happy birthday to my little sister, Tasnim.",
+    description: "May your next chapter bring happiness, kindness, and dreams come true. With love, your big brother.",
   },
 ];
 export const puzzlePhoto = {
-  image: "/images/tasnim/tasnim-tiara-puzzle.webp",
+  image: "/images/tasnim/tasnim-birthday-portrait.webp",
   position: "50% 50%",
-  alt: "Tasnim wearing a tiara over her hijab and holding red and white roses",
+  alt: "Tasnim wearing a tiara and holding roses in a floral birthday portrait for 31 October",
 };
 export const quiz = [
   {
